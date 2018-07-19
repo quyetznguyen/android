@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Tuto Passport</string>
+    <!--Error-->
+    <string name="err_name">The name field is required.</string>
+    <string name="err_email">The email must be a valid Email Address.</string>
+    <string name="err_password">The password must be at least 6 character.</string>
+    <!--fb-->
+    <string name="facebook_app_id">536494016782853</string>
+    <string name="fb_login_protocol_scheme">fb536494016782853</string>
+
 </resources>
